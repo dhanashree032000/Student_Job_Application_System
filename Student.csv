@@ -1,0 +1,101 @@
+Student_ID,First_Name,Last_Name,Gender,University,Degree,Graduation_Year,Date_Joined,Work_Experience,Certifications
+1,Oliver,Smith,Male,University of Manchester,Computer Science,2024,10-09-2022,1,AWS Cloud Practitioner
+2,Amelia,Jones,Female,University of Leeds,Data Science,2023,15-08-2021,2,Azure Fundamentals
+3,Harry,Williams,Male,King's College London,Software Engineering,2025,20-01-2023,0,None
+4,Isla,Brown,Female,University of Edinburgh,Business Analytics,2024,12-05-2022,1,Google Data Analytics
+5,George,Taylor,Male,University of Birmingham,Cybersecurity,2023,01-09-2021,3,ITIL Foundation
+6,Sophia,Wilson,Female,University of Glasgow,Computer Science,2025,18-02-2023,0,None
+7,Jack,Thompson,Male,University of Liverpool,Data Science,2024,22-07-2022,1,AWS Cloud Practitioner
+8,Mia,White,Female,University of Bristol,Software Engineering,2023,14-09-2021,2,Azure Fundamentals
+9,Charlie,Martin,Male,University of Nottingham,Business Analytics,2024,10-03-2022,1,None
+10,Emily,Anderson,Female,University of Sheffield,Cybersecurity,2023,25-08-2021,2,Google Data Analytics
+11,Oscar,Clark,Male,University of Manchester,Computer Science,2025,05-01-2023,0,None
+12,Ava,Hall,Female,University of Leeds,Data Science,2024,18-06-2022,1,ITIL Foundation
+13,Leo,Allen,Male,King's College London,Software Engineering,2023,10-09-2021,2,AWS Cloud Practitioner
+14,Grace,Young,Female,University of Edinburgh,Business Analytics,2025,12-02-2023,0,None
+15,Freddie,Harris,Male,University of Birmingham,Cybersecurity,2024,20-04-2022,1,Azure Fundamentals
+16,Poppy,Scott,Female,University of Glasgow,Computer Science,2023,30-07-2021,2,Google Data Analytics
+17,Archie,Green,Male,University of Liverpool,Data Science,2024,10-08-2022,1,None
+18,Ella,Adams,Female,University of Bristol,Software Engineering,2025,25-01-2023,0,None
+19,Theo,Baker,Male,University of Nottingham,Business Analytics,2023,12-09-2021,2,ITIL Foundation
+20,Lily,Nelson,Female,University of Sheffield,Cybersecurity,2024,05-05-2022,1,AWS Cloud Practitioner
+21,Jacob,Carter,Male,University of Manchester,Computer Science,2024,14-09-2022,1,None
+22,Chloe,Mitchell,Female,University of Leeds,Data Science,2023,20-08-2021,2,Azure Fundamentals
+23,Alfie,Perez,Male,King's College London,Software Engineering,2025,01-02-2023,0,None
+24,Evie,Roberts,Female,University of Edinburgh,Business Analytics,2024,10-06-2022,1,Google Data Analytics
+25,Henry,Turner,Male,University of Birmingham,Cybersecurity,2023,18-07-2021,3,ITIL Foundation
+26,Sienna,Phillips,Female,University of Glasgow,Computer Science,2025,12-03-2023,0,None
+27,Joshua,Campbell,Male,University of Liverpool,Data Science,2024,22-08-2022,1,AWS Cloud Practitioner
+28,Florence,Parker,Female,University of Bristol,Software Engineering,2023,05-09-2021,2,Azure Fundamentals
+29,Max,Evans,Male,University of Nottingham,Business Analytics,2024,15-04-2022,1,None
+30,Willow,Edwards,Female,University of Sheffield,Cybersecurity,2023,12-08-2021,2,Google Data Analytics
+31,Thomas,Collins,Male,University of Manchester,Computer Science,2025,18-01-2023,0,None
+32,Harper,Stewart,Female,University of Leeds,Data Science,2024,25-06-2022,1,ITIL Foundation
+33,Arthur,Morris,Male,King's College London,Software Engineering,2023,20-09-2021,2,AWS Cloud Practitioner
+34,Elsie,Rogers,Female,University of Edinburgh,Business Analytics,2025,22-02-2023,0,None
+35,Logan,Reed,Male,University of Birmingham,Cybersecurity,2024,10-05-2022,1,Azure Fundamentals
+36,Millie,Cook,Female,University of Glasgow,Computer Science,2023,28-07-2021,2,Google Data Analytics
+37,Isaac,Morgan,Male,University of Liverpool,Data Science,2024,05-08-2022,1,None
+38,Aria,Bell,Female,University of Bristol,Software Engineering,2025,30-01-2023,0,None
+39,Luca,Murphy,Male,University of Nottingham,Business Analytics,2023,08-09-2021,2,ITIL Foundation
+40,Sadie,Bailey,Female,University of Sheffield,Cybersecurity,2024,12-05-2022,1,AWS Cloud Practitioner
+41,Edward,Rivera,Male,University of Manchester,Computer Science,2024,18-09-2022,1,None
+42,Jessica,Cooper,Female,University of Leeds,Data Science,2023,10-08-2021,2,Azure Fundamentals
+43,Hugo,Richardson,Male,King's College London,Software Engineering,2025,10-02-2023,0,None
+44,Scarlett,Cox,Female,University of Edinburgh,Business Analytics,2024,15-06-2022,1,Google Data Analytics
+45,Jaxon,Howard,Male,University of Birmingham,Cybersecurity,2023,20-07-2021,3,ITIL Foundation
+46,Matilda,Ward,Female,University of Glasgow,Computer Science,2025,05-03-2023,0,None
+47,Reuben,Brooks,Male,University of Liverpool,Data Science,2024,12-08-2022,1,AWS Cloud Practitioner
+48,Imogen,Gray,Female,University of Bristol,Software Engineering,2023,02-09-2021,2,Azure Fundamentals
+49,Adam,Foster,Male,University of Nottingham,Business Analytics,2024,22-04-2022,1,None
+50,Erin,James,Female,University of Sheffield,Cybersecurity,2023,18-08-2021,2,Google Data Analytics
+51,Harvey,Watson,Male,University of Manchester,Computer Science,2025,12-01-2023,0,None
+52,Lucy,Bryant,Female,University of Leeds,Data Science,2024,28-06-2022,1,ITIL Foundation
+53,Blake,Griffin,Male,King's College London,Software Engineering,2023,25-09-2021,2,AWS Cloud Practitioner
+54,Eliza,Hayes,Female,University of Edinburgh,Business Analytics,2025,28-02-2023,0,None
+55,Rowan,Price,Male,University of Birmingham,Cybersecurity,2024,18-05-2022,1,Azure Fundamentals
+56,Abigail,Wood,Female,University of Glasgow,Computer Science,2023,15-07-2021,2,Google Data Analytics
+57,Michael,Barnes,Male,University of Liverpool,Data Science,2024,18-08-2022,1,None
+58,Penelope,West,Female,University of Bristol,Software Engineering,2025,28-01-2023,0,None
+59,Caleb,Jordan,Male,University of Nottingham,Business Analytics,2023,14-09-2021,2,ITIL Foundation
+60,Anna,Chapman,Female,University of Sheffield,Cybersecurity,2024,20-05-2022,1,AWS Cloud Practitioner
+61,Daniel,Reynolds,Male,University of Manchester,Computer Science,2024,22-09-2022,1,None
+62,Maisie,Long,Female,University of Leeds,Data Science,2023,22-08-2021,2,Azure Fundamentals
+63,Callum,Harrison,Male,King's College London,Software Engineering,2025,15-02-2023,0,None
+64,Thea,Grant,Female,University of Edinburgh,Business Analytics,2024,20-06-2022,1,Google Data Analytics
+65,Spencer,Wallace,Male,University of Birmingham,Cybersecurity,2023,25-07-2021,3,ITIL Foundation
+66,Amber,Watts,Female,University of Glasgow,Computer Science,2025,10-03-2023,0,None
+67,Jayden,Holmes,Male,University of Liverpool,Data Science,2024,25-08-2022,1,AWS Cloud Practitioner
+68,Harriet,Stevens,Female,University of Bristol,Software Engineering,2023,08-09-2021,2,Azure Fundamentals
+69,Connor,Dean,Male,University of Nottingham,Business Analytics,2024,28-04-2022,1,None
+70,Victoria,Armstrong,Female,University of Sheffield,Cybersecurity,2023,05-08-2021,2,Google Data Analytics
+71,Brandon,Page,Male,University of Manchester,Computer Science,2025,22-01-2023,0,None
+72,Georgia,Spencer,Female,University of Leeds,Data Science,2024,30-06-2022,1,ITIL Foundation
+73,Leon,Francis,Male,King's College London,Software Engineering,2023,18-09-2021,2,AWS Cloud Practitioner
+74,Clara,Goodwin,Female,University of Edinburgh,Business Analytics,2025,25-02-2023,0,None
+75,Mitchell,Sharp,Male,University of Birmingham,Cybersecurity,2024,22-05-2022,1,Azure Fundamentals
+76,Faith,Barrett,Female,University of Glasgow,Computer Science,2023,12-07-2021,2,Google Data Analytics
+77,Ellis,Potter,Male,University of Liverpool,Data Science,2024,30-08-2022,1,None
+78,Heidi,Walsh,Female,University of Bristol,Software Engineering,2025,26-01-2023,0,None
+79,Marcus,Booth,Male,University of Nottingham,Business Analytics,2023,10-09-2021,2,ITIL Foundation
+80,Annabelle,Hardy,Female,University of Sheffield,Cybersecurity,2024,28-05-2022,1,AWS Cloud Practitioner
+81,Reece,Thornton,Male,University of Manchester,Computer Science,2024,25-09-2022,1,None
+82,Francesca,Parsons,Female,University of Leeds,Data Science,2023,12-08-2021,2,Azure Fundamentals
+83,Declan,Norman,Male,King's College London,Software Engineering,2025,20-02-2023,0,None
+84,Beatrice,Slater,Female,University of Edinburgh,Business Analytics,2024,12-06-2022,1,Google Data Analytics
+85,Shane,Preston,Male,University of Birmingham,Cybersecurity,2023,22-07-2021,3,ITIL Foundation
+86,Julia,Barton,Female,University of Glasgow,Computer Science,2025,15-03-2023,0,None
+87,Finley,Rowe,Male,University of Liverpool,Data Science,2024,10-08-2022,1,AWS Cloud Practitioner
+88,Arabella,Reeves,Female,University of Bristol,Software Engineering,2023,20-09-2021,2,Azure Fundamentals
+89,Peter,Humphreys,Male,University of Nottingham,Business Analytics,2024,18-04-2022,1,None
+90,Elodie,McKenzie,Female,University of Sheffield,Cybersecurity,2023,22-08-2021,2,Google Data Analytics
+91,Stuart,Rowlands,Male,University of Manchester,Computer Science,2025,28-01-2023,0,None
+92,Paige,Thorpe,Female,University of Leeds,Data Science,2024,18-06-2022,1,ITIL Foundation
+93,Ashton,Milton,Male,King's College London,Software Engineering,2023,14-09-2021,2,AWS Cloud Practitioner
+94,Elena,Swift,Female,University of Edinburgh,Business Analytics,2025,18-02-2023,0,None
+95,Corey,Abbott,Male,University of Birmingham,Cybersecurity,2024,15-05-2022,1,Azure Fundamentals
+96,Naomi,Thornton,Female,University of Glasgow,Computer Science,2023,18-07-2021,2,Google Data Analytics
+97,Shawn,Beck,Male,University of Liverpool,Data Science,2024,22-08-2022,1,None
+98,Tabitha,Hooper,Female,University of Bristol,Software Engineering,2025,30-01-2023,0,None
+99,Martin,Hayward,Male,University of Nottingham,Business Analytics,2023,05-09-2021,2,ITIL Foundation
+100,Elise,Farmer,Female,University of Sheffield,Cybersecurity,2024,10-05-2022,1,AWS Cloud Practitioner

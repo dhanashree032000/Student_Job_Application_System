@@ -1,0 +1,121 @@
+Job_ID,Employer_ID,Job_Title,Job_Type,Department,Location,Salary,Start_Date,End_Date
+1,1,Software Developer,Full-Time,Engineering,London,52000,01-02-2023,01-02-2024
+2,1,Data Analyst,Full-Time,Analytics,London,45000,15-03-2023,15-03-2024
+3,1,IT Support Engineer,Full-Time,IT,London,38000,01-05-2023,01-05-2024
+4,1,Cybersecurity Analyst,Full-Time,Security,London,60000,10-06-2023,10-06-2024
+5,2,Healthcare Data Analyst,Full-Time,Analytics,London,42000,01-04-2023,01-04-2024
+6,2,Clinical Systems Technician,Full-Time,IT,London,36000,20-05-2023,20-05-2024
+7,2,Medical IT Support,Full-Time,Support,London,34000,01-07-2023,01-07-2024
+8,3,Financial Analyst,Full-Time,Finance,Manchester,55000,10-03-2023,10-03-2024
+9,3,Risk Analyst,Full-Time,Risk,Manchester,58000,15-04-2023,15-04-2024
+10,3,Data Engineer,Full-Time,Engineering,Manchester,62000,01-06-2023,01-06-2024
+11,4,Retail Operations Assistant,Full-Time,Operations,Birmingham,28000,20-02-2023,20-02-2024
+12,4,Inventory Analyst,Full-Time,Logistics,Birmingham,30000,25-03-2023,25-03-2024
+13,4,Store IT Technician,Full-Time,IT,Birmingham,32000,10-05-2023,10-05-2024
+14,5,Marketing Coordinator,Full-Time,Marketing,Leeds,35000,01-04-2023,01-04-2024
+15,5,Digital Content Creator,Full-Time,Media,Leeds,33000,01-06-2023,01-06-2024
+16,5,SEO Analyst,Full-Time,Marketing,Leeds,37000,15-07-2023,15-07-2024
+17,6,Manufacturing Technician,Full-Time,Production,Sheffield,31000,01-03-2023,01-03-2024
+18,6,Quality Assurance Analyst,Full-Time,Quality,Sheffield,34000,10-04-2023,10-04-2024
+19,6,Industrial Engineer,Full-Time,Engineering,Sheffield,45000,20-05-2023,20-05-2024
+20,7,Business Analyst,Full-Time,Consulting,London,48000,15-02-2023,15-02-2024
+21,7,Junior Consultant,Full-Time,Consulting,London,42000,20-03-2023,20-03-2024
+22,7,IT Strategy Analyst,Full-Time,Consulting,London,50000,01-05-2023,01-05-2024
+23,8,Software Tester,Full-Time,Engineering,Manchester,40000,01-04-2023,01-04-2024
+24,8,Cloud Support Engineer,Full-Time,IT,Manchester,45000,15-05-2023,15-05-2024
+25,8,Data Technician,Full-Time,Analytics,Manchester,38000,01-07-2023,01-07-2024
+26,9,Healthcare Support Analyst,Full-Time,IT,Liverpool,35000,10-03-2023,10-03-2024
+27,9,Medical Data Technician,Full-Time,Analytics,Liverpool,33000,20-04-2023,20-04-2024
+28,9,Clinical Systems Analyst,Full-Time,IT,Liverpool,37000,01-06-2023,01-06-2024
+29,10,Investment Analyst,Full-Time,Finance,London,60000,01-02-2023,01-02-2024
+30,10,Compliance Analyst,Full-Time,Compliance,London,58000,15-03-2023,15-03-2024
+31,10,Data Governance Specialist,Full-Time,Data,London,62000,01-05-2023,01-05-2024
+32,11,Retail Data Analyst,Full-Time,Analytics,Leeds,32000,01-04-2023,01-04-2024
+33,11,Store Operations Coordinator,Full-Time,Operations,Leeds,30000,10-05-2023,10-05-2024
+34,11,Customer Insights Analyst,Full-Time,Marketing,Leeds,34000,20-06-2023,20-06-2024
+35,12,Media Production Assistant,Full-Time,Media,Glasgow,28000,01-03-2023,01-03-2024
+36,12,Graphic Designer,Full-Time,Design,Glasgow,32000,15-04-2023,15-04-2024
+37,12,Social Media Analyst,Full-Time,Marketing,Glasgow,35000,01-06-2023,01-06-2024
+38,13,Mechanical Engineer,Full-Time,Engineering,Birmingham,45000,20-02-2023,20-02-2024
+39,13,Production Planner,Full-Time,Production,Birmingham,38000,25-03-2023,25-03-2024
+40,13,Quality Control Technician,Full-Time,Quality,Birmingham,36000,10-05-2023,10-05-2024
+41,14,Junior Consultant,Full-Time,Consulting,Edinburgh,40000,01-04-2023,01-04-2024
+42,14,Data Insights Analyst,Full-Time,Analytics,Edinburgh,45000,15-05-2023,15-05-2024
+43,14,IT Advisory Analyst,Full-Time,Consulting,Edinburgh,48000,01-07-2023,01-07-2024
+44,15,Software Engineer,Full-Time,Engineering,London,55000,01-03-2023,01-03-2024
+45,15,Cloud Engineer,Full-Time,IT,London,60000,20-04-2023,20-04-2024
+46,15,DevOps Technician,Full-Time,Engineering,London,52000,01-06-2023,01-06-2024
+47,16,Healthcare IT Analyst,Full-Time,IT,Manchester,36000,15-02-2023,15-02-2024
+48,16,Medical Records Technician,Full-Time,Support,Manchester,30000,20-03-2023,20-03-2024
+49,16,Clinical Data Analyst,Full-Time,Analytics,Manchester,38000,01-05-2023,01-05-2024
+50,17,Risk & Compliance Analyst,Full-Time,Risk,Edinburgh,58000,01-04-2023,01-04-2024
+51,17,Financial Data Analyst,Full-Time,Finance,Edinburgh,60000,15-05-2023,15-05-2024
+52,17,Security Operations Analyst,Full-Time,Security,Edinburgh,62000,01-07-2023,01-07-2024
+53,18,Retail Operations Analyst,Full-Time,Operations,Glasgow,32000,10-03-2023,10-03-2024
+54,18,Customer Behaviour Analyst,Full-Time,Marketing,Glasgow,34000,20-04-2023,20-04-2024
+55,18,Store IT Support,Full-Time,IT,Glasgow,30000,01-06-2023,01-06-2024
+56,19,Marketing Analyst,Full-Time,Marketing,London,38000,01-02-2023,01-02-2024
+57,19,Brand Strategist,Full-Time,Marketing,London,42000,15-03-2023,15-03-2024
+58,19,Content Writer,Full-Time,Media,London,35000,01-05-2023,01-05-2024
+59,20,Manufacturing Planner,Full-Time,Production,Leeds,36000,01-04-2023,01-04-2024
+60,20,Industrial Technician,Full-Time,Engineering,Leeds,38000,10-05-2023,10-05-2024
+61,20,Quality Inspector,Full-Time,Quality,Leeds,34000,20-06-2023,20-06-2024
+62,21,Consulting Analyst,Full-Time,Consulting,Birmingham,45000,01-03-2023,01-03-2024
+63,21,Strategy Analyst,Full-Time,Consulting,Birmingham,48000,15-04-2023,15-04-2024
+64,21,IT Transformation Analyst,Full-Time,IT,Birmingham,50000,01-06-2023,01-06-2024
+65,22,Junior Software Developer,Full-Time,Engineering,Manchester,38000,20-02-2023,20-02-2024
+66,22,Cloud Support Technician,Full-Time,IT,Manchester,35000,25-03-2023,25-03-2024
+67,22,Data Quality Analyst,Full-Time,Analytics,Manchester,40000,10-05-2023,10-05-2024
+68,23,Healthcare Systems Analyst,Full-Time,IT,London,42000,01-04-2023,01-04-2024
+69,23,Medical Data Specialist,Full-Time,Analytics,London,38000,15-05-2023,15-05-2024
+70,23,Clinical IT Coordinator,Full-Time,Support,London,36000,01-07-2023,01-07-2024
+71,24,Financial Modelling Analyst,Full-Time,Finance,Glasgow,60000,10-03-2023,10-03-2024
+72,24,Investment Operations Analyst,Full-Time,Finance,Glasgow,58000,20-04-2023,20-04-2024
+73,24,Data Compliance Analyst,Full-Time,Compliance,Glasgow,62000,01-06-2023,01-06-2024
+74,25,Retail Insights Analyst,Full-Time,Analytics,Liverpool,32000,01-02-2023,01-02-2024
+75,25,Store Operations Lead,Full-Time,Operations,Liverpool,30000,15-03-2023,15-03-2024
+76,25,Customer Experience Analyst,Full-Time,Marketing,Liverpool,34000,01-05-2023,01-05-2024
+77,26,Media Research Analyst,Full-Time,Media,Edinburgh,33000,01-04-2023,01-04-2024
+78,26,Graphic Design Assistant,Full-Time,Design,Edinburgh,30000,10-05-2023,10-05-2024
+79,26,Digital Marketing Analyst,Full-Time,Marketing,Edinburgh,35000,20-06-2023,20-06-2024
+80,27,Industrial Engineer,Full-Time,Engineering,Manchester,45000,01-03-2023,01-03-2024
+81,27,Production Supervisor,Full-Time,Production,Manchester,38000,15-04-2023,15-04-2024
+82,27,Quality Technician,Full-Time,Quality,Manchester,36000,01-06-2023,01-06-2024
+83,28,Consulting Associate,Full-Time,Consulting,London,42000,20-02-2023,20-02-2024
+84,28,IT Advisory Consultant,Full-Time,Consulting,London,48000,25-03-2023,25-03-2024
+85,28,Data Strategy Analyst,Full-Time,Analytics,London,50000,10-05-2023,10-05-2024
+86,29,Software Engineer,Full-Time,Engineering,Leeds,52000,01-04-2023,01-04-2024
+87,29,Cloud Infrastructure Analyst,Full-Time,IT,Leeds,55000,15-05-2023,15-05-2024
+88,29,DevOps Engineer,Full-Time,Engineering,Leeds,58000,01-07-2023,01-07-2024
+89,30,Healthcare Support Technician,Full-Time,Support,Birmingham,30000,10-03-2023,10-03-2024
+90,30,Clinical Data Analyst,Full-Time,Analytics,Birmingham,36000,20-04-2023,20-04-2024
+91,30,Medical IT Specialist,Full-Time,IT,Birmingham,38000,01-06-2023,01-06-2024
+92,1,Junior Developer,Internship,Engineering,London,22000,01-06-2023,01-12-2023
+93,3,Finance Intern,Internship,Finance,Manchester,21000,01-07-2023,31-12-2023
+94,5,Marketing Intern,Internship,Marketing,Leeds,20000,15-06-2023,15-11-2023
+95,8,IT Support Intern,Internship,IT,Manchester,19500,10-07-2023,10-12-2023
+96,10,Data Intern,Internship,Analytics,London,23000,20-06-2023,20-12-2023
+97,12,Media Intern,Internship,Media,Glasgow,18000,01-07-2023,30-11-2023
+98,14,Consulting Intern,Internship,Consulting,Edinburgh,22000,10-06-2023,10-12-2023
+99,17,Risk Intern,Internship,Risk,Edinburgh,21000,05-07-2023,05-12-2023
+100,19,Content Intern,Internship,Marketing,London,18500,25-06-2023,25-11-2023
+101,21,Strategy Intern,Internship,Consulting,Birmingham,20000,01-07-2023,01-12-2023
+102,23,Healthcare Intern,Internship,Support,London,19000,15-06-2023,15-11-2023
+103,25,Retail Intern,Internship,Operations,Liverpool,18500,01-07-2023,30-11-2023
+104,27,Manufacturing Intern,Internship,Production,Manchester,20000,20-06-2023,20-12-2023
+105,29,Engineering Intern,Internship,Engineering,Leeds,23000,01-07-2023,31-12-2023
+106,2,Senior Data Scientist,Full-Time,Analytics,London,72000,01-08-2023,01-08-2024
+107,3,Senior Financial Analyst,Full-Time,Finance,Manchester,70000,01-09-2023,01-09-2024
+108,5,Senior Marketing Manager,Full-Time,Marketing,Leeds,65000,15-08-2023,15-08-2024
+109,8,Senior Cloud Engineer,Full-Time,IT,Manchester,75000,10-09-2023,10-09-2024
+110,10,Senior Compliance Manager,Full-Time,Compliance,London,80000,20-08-2023,20-08-2024
+111,12,Senior Media Producer,Full-Time,Media,Glasgow,68000,01-09-2023,01-09-2024
+112,14,Senior Consultant,Full-Time,Consulting,Edinburgh,72000,10-08-2023,10-08-2024
+113,17,Senior Risk Manager,Full-Time,Risk,Edinburgh,78000,05-09-2023,05-09-2024
+114,19,Senior Brand Manager,Full-Time,Marketing,London,69000,25-08-2023,25-08-2024
+115,21,Senior Strategy Consultant,Full-Time,Consulting,Birmingham,75000,01-09-2023,01-09-2024
+116,23,Senior Healthcare Analyst,Full-Time,Analytics,London,70000,15-08-2023,15-08-2024
+117,25,Senior Retail Manager,Full-Time,Operations,Liverpool,68000,01-09-2023,01-09-2024
+118,27,Senior Manufacturing Engineer,Full-Time,Engineering,Manchester,72000,20-08-2023,20-08-2024
+119,29,Senior DevOps Engineer,Full-Time,Engineering,Leeds,78000,01-09-2023,01-09-2024
+120,30,Senior Clinical IT Manager,Full-Time,IT,Birmingham,72000,10-08-2023,10-08-2024
